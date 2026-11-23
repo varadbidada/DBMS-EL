@@ -1,1 +1,1 @@
-// empty init for package
+# empty __init__ for package
