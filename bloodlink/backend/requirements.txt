@@ -1,0 +1,10 @@
+fastapi[all]
+uvicorn[standard]
+SQLAlchemy>=2.0
+asyncpg
+psycopg2-binary
+pymongo
+python-jose[cryptography]
+alembic
+pydantic-settings
+Faker>=24.0
